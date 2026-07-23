@@ -1,0 +1,24 @@
+*.swp
+*.swo
+
+# Binarios
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# BoltDB
+nosql.db
+
+# Go
+/vendor/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db

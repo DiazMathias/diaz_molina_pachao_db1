@@ -1,0 +1,74 @@
+[
+	{
+		"codigo_postal": "1390",
+		"costo": 200
+	},
+	{
+		"codigo_postal": "1515",
+		"costo": 200
+	},
+	{
+		"codigo_postal": "1613",
+		"costo": 0
+	},
+	{
+		"codigo_postal": "1615",
+		"costo": 0
+	},
+	{
+		"codigo_postal": "1663",
+		"costo": 0
+	},
+	{
+		"codigo_postal": "1821",
+		"costo": 300
+	},
+	{
+		"codigo_postal": "2403",
+		"costo": 400
+	},
+	{
+		"codigo_postal": "2510",
+		"costo": 400
+	},
+	{
+		"codigo_postal": "3332",
+		"costo": 200
+	},
+	{
+		"codigo_postal": "5030",
+		"costo": 500
+	},
+	{
+		"codigo_postal": "5047",
+		"costo": 500
+	},
+	{
+		"codigo_postal": "5579",
+		"costo": 500
+	},
+	{
+		"codigo_postal": "5823",
+		"costo": 500
+	},
+	{
+		"codigo_postal": "6592",
+		"costo": 300
+	},
+	{
+		"codigo_postal": "7721",
+		"costo": 300
+	},
+	{
+		"codigo_postal": "8142",
+		"costo": 400
+	},
+	{
+		"codigo_postal": "8591",
+		"costo": 400
+	},
+	{
+		"codigo_postal": "9419",
+		"costo": 400
+	}
+]
