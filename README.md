@@ -20,14 +20,14 @@ Proyecto académico de bases de datos que implementa un sistema completo de gest
 ## Funcionalidades
 
 ### Menú interactivo principal
-- 1. Crear base de datos
-- 2. Crear tablas
-- 3. Agregar PKs y FKs
-- 4. Eliminar PKs y FKs
-- 5. Cargar datos de prueba
-- 6. Crear stored procedures y triggers
-- 7. Iniciar pruebas automatizadas
-- 8. Cargar datos en BoltDB
+- Crear base de datos
+- Crear tablas
+- Agregar PKs y FKs
+- Eliminar PKs y FKs
+- Cargar datos de prueba
+- Crear stored procedures y triggers
+- Iniciar pruebas automatizadas
+- Cargar datos en BoltDB
 
 ### Stored Procedures (PL/pgSQL)
 - `crear_pedido(id_usuarie, id_direccion)` - Crea un nuevo pedido validando cliente, dirección y tarifa de envío
