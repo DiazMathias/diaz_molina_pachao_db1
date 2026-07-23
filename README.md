@@ -2,11 +2,11 @@
 
 Proyecto académico de bases de datos que implementa un sistema completo de gestión de pedidos para un negocio de deliveries. Desarrollado en **Go** con **PostgreSQL** como base de datos relacional y **BoltDB** como base de datos NoSQL para migración de datos.
 
-## Autoras/es
+## Autores
 
+- Diaz
 - Molina
 - Pachao
-- Diaz
 
 
 ## Tecnologías utilizadas
@@ -22,7 +22,7 @@ Proyecto académico de bases de datos que implementa un sistema completo de gest
 ### Menú interactivo principal
 - Crear base de datos
 - Crear tablas
-- Agregar PKs y FKs
+- Añadir PKs y FKs
 - Eliminar PKs y FKs
 - Cargar datos de prueba
 - Crear stored procedures y triggers
@@ -95,7 +95,7 @@ Proyecto académico de bases de datos que implementa un sistema completo de gest
 
 1. Clonar el repositorio
    ```bash
-   git clone https://github.com/usuario/diaz_molina_pachao_db1.git
+   git clone https://github.com/DiazMathias/diaz_molina_pachao_db1.git
    cd diaz_molina_pachao_db1
    ```
 
